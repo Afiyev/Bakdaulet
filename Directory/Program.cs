@@ -28,7 +28,7 @@ namespace Directory
     {
         static void Main(string[] args)
         {
-            // экземплчяр класса точка
+            // экземпляр класса точка
             Point p = new Point(25);
             Console.WriteLine(p.x + " " + p.y);
         }
